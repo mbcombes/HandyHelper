@@ -1,0 +1,12 @@
+.container{
+    margin: 0px auto;
+}
+#welcome{
+    margin: 0px auto;
+}
+ul{
+    list-style: none;
+}
+span{
+    font-weight: bold;
+}
